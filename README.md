@@ -1,0 +1,2 @@
+# knowtechno_sitemap
+sitemap_javascript
